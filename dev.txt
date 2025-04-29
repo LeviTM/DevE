@@ -1,0 +1,11 @@
+¿Que es el desarrollo de Software? y ¿Por que es importante?
+
+El desarrollo de sotware es el proceso de creacion de programas y sistemas que ayudan a resolver un problema
+partes -- ANALISIS -- DISEÑO -- DESARROLLO -- PRUEBAS -- MANTENIMIENTO
+Es importante por que nos brinda soluciones digitales con los cuales podemos optimizar procesos para que el trabajo 
+sea eficiente.
+
+Algoritmos  (Algoritmo: Conjunto de instrucciones definidas y estructuradas
+            a seguir para solucionar un problema(Busqueda, Ordenacion y Recursion))
+
+Entorno de Desarrollo 
