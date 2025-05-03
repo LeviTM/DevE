@@ -19,3 +19,60 @@ for i in range(len(li)):
 	if not b:
 		break
 print("Lista ordenada", li)
+
+#Estructuras de Control
+#Ejercicios de Practica (if, elif, else, for, and while)
+x= 6
+if x > 6:
+	print("Mayor que 6")
+elif x == 6 :
+	print("Igual que 6")
+else:
+	print("Menor que 6")
+
+for i in range(1,10):
+	print(i)
+
+c=0
+while c < 5:
+    print("Cuenta:", c)
+    c += 1
+#Ejercicio Ramdom
+import random
+p=1
+key= random.randint(1,10)
+for i in  range(10):
+	p = int(input("Adivina el numero esta entre 1 y 10: "))
+	if p == key:
+		print("exacto el numero es ",p," Logrado en el intento ",p)
+		break
+	else:
+		print("No es el numero sigue intentando")
+		p +=1
+else:
+	print("Se te terminaron los intentos el numero era: ",key)
+	
+#Tabla de multiplicar
+n = int(input("Ingresa un numero amiguit@: "))
+for i in range(1,10):
+	print(f"{n} x {i} = {n*i}")
+# contador
+i = 0
+while i <= 10:
+    print(i)
+    i += 2
+#Desafio dice xd 
+while True:
+	try:
+		edad= int(input("Ingresa Tu edad wawita: "))
+		if 1 <= edad <= 100 :
+			edad=int(edad)
+			if edad <= 17:
+				print("Aun no cuentas ve a tu casa ratatui")
+			else:
+				print("Usted puede votar para acuña ❤")
+				break
+		else:
+			print("Ingresa una edad valida oe especial")
+	except ValueError:
+		print("Ingresa solo numeros oe especial")

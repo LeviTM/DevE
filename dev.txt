@@ -8,4 +8,6 @@ sea eficiente.
 Algoritmos  (Algoritmo: Conjunto de instrucciones definidas y estructuradas
             a seguir para solucionar un problema(Busqueda, Ordenacion y Recursion))
 
-Entorno de Desarrollo 
+Entorno de Desarrollo : VSC(Editor de Codigo) github(Repositorio)
+
+Estructuras de Control
